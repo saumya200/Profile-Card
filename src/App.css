@@ -1,0 +1,13 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+
+.App{
+  
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 7px;
+  max-width:550px;
+  margin:auto;
+  margin-top:10px;
+  font-family:Open Sans, sans-serif;
+}
